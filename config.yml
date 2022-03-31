@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://wonderful-medovik-c58235.netlify.app"
 languageCode: en-us
 title: Demo for Hugo
 theme: PaperMod
